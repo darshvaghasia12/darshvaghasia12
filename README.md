@@ -7,6 +7,7 @@
 ![Years Badge](https://badges.pufler.dev/years/darshvaghasia12/?color=red)
 
 Pursuing Master's of Science in Computer Science under Data Science Track
+<br>
 Completed Bachelors Of Technology in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
 
 I aspire to work with an industry to get hands-on experience on the latest technology to keep my knowledge up to speed with what's going on throughout the world.<br>
