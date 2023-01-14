@@ -6,7 +6,8 @@
 ![Repos Badge](https://badges.pufler.dev/repos/darshvaghasia12/?color=red)
 ![Years Badge](https://badges.pufler.dev/years/darshvaghasia12/?color=red)
 
-Pursuing Bachelors Of Technology in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
+Pursuing Master's of Science in Computer Science under Data Science Track
+Completed Bachelors Of Technology in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
 
 I aspire to work with an industry to get hands-on experience on the latest technology to keep my knowledge up to speed with what's going on throughout the world.<br>
 Along with this technical knowledge I also love to work in Deep Learning Field. I enjoy doing creative Stuff, Besides I'm a Musician and an Amateur Pianist and always have this optmistic attitude and make music to spread love and feel loved therefore I try to do as many things as possible to make it beautiful and splendid.<br>
