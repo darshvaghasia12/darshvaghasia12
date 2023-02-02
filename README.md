@@ -20,7 +20,7 @@ Happy to connect 🤟🏻
 - <a href="https://github.com/darshvaghasia12"><img src="https://img.icons8.com/cute-clipart/18/000000/machine-learning.png"/></a> I’m currently learning Machine Learning / Deep Learning
 - <a href="http://boomboom.in/"><img src="https://img.icons8.com/nolan/18/html-filetype.png"/></a> I'm a Web Developer, You can Checkout my Internship Website
 - <a href="https://darshvaghasia12.github.io">👨‍💻</a> Here you can get my portfolio available.
-- <a href="https://drive.google.com/file/d/1ppxiqrbhpUxCF_mQLYrc0qRnAGxztG-b/view?usp=sharing">📄</a> Know about my experiences
+- <a href="https://drive.google.com/file/d/1gYXIV6ZCnW_PpwtgpWSiy3vMZBADcZb1/view?usp=share_link">📄</a> Know about my experiences
 - 📫 How to reach me: darshvaghasia256@gmail.com
 - ⚡ Fun fact: I also endeavor to do fantastic things in my life, I Kinda Sing make feel Loved #SpreadLove
 
