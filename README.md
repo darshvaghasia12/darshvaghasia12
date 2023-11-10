@@ -7,7 +7,6 @@
 ![Years Badge](https://badges.pufler.dev/years/darshvaghasia12/?color=red)
 
 - Pursuing Master's of Science in Computer Science (Data Science)
-<br>
 - Completed Bachelors Of Technology in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
 
 Identifying myself as the Non-immigrant in the United States has largely shaped my unique perspectives and aspirations. I take great pride in persistence, diligence and empathy.<br>
