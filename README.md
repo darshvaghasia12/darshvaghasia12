@@ -16,6 +16,8 @@ Innovative and scientifically rigorous recent graduate with a significant data s
 
 Actively looking for Internship opportunities in the States towards Data Science, Data Analyst, Data Engineer or Software Developer field. I have prior experiences at some of the esteemed companies one of that is Reliance Jio Platforms Limited as a Data Science Intern. <br>
 
+I’m always looking forward to an insightful conversation over coffee, or even better, a round of skydiving!<br>
+
 Happy to connect 🤟🏻
 - <a href="https://www.utdallas.edu"><img width="18px" src="https://research.utdallas.edu/app/themes/utdresearchtheme/assets/images/logo.png?last_modified=1667557380" /></a>Currently Pursuing Masters of Science in Computer Science from The University of Texas at Dallas
 - <a href="https://www.charusat.ac.in/depstar/"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/TRANSPARENT Depstar Logo.png" /></a> Did Bachelor of Technology in Computer Science from Charusat University
