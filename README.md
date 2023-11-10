@@ -10,9 +10,11 @@ Pursuing Master's of Science in Computer Science under Data Science Track
 <br>
 Completed Bachelors Of Technology in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
 
-I aspire to work with an industry to get hands-on experience on the latest technology to keep my knowledge up to speed with what's going on throughout the world.<br>
-Along with this technical knowledge I also love to work in Deep Learning Field. I enjoy doing creative Stuff, Besides I'm a Musician and an Amateur Pianist and always have this optmistic attitude and make music to spread love and feel loved therefore I try to do as many things as possible to make it beautiful and splendid.<br>
+Identifying myself as the Non-immigrant in the United States has largely shaped my unique perspectives and aspirations. I take great pride in persistence, diligence and empathy.<br>
 
+Innovative and scientifically rigorous recent graduate with a significant data science internship experience to bring to the table. With a team-oriented attitude, I am eager to contribute my abilities in quantitative modeling and experimentation to enhance the experience of customers around the world.<br>
+
+Actively looking for Internship opportunities in the States towards Data Science, Data Analyst, Data Engineer or Software Developer field. I have prior experiences at some of the esteemed companies one of that is Reliance Jio Platforms Limited as a Data Science Intern. <br>
 
 Happy to connect 🤟🏻
 - <a href="https://www.utdallas.edu"><img width="18px" src="https://research.utdallas.edu/app/themes/utdresearchtheme/assets/images/logo.png?last_modified=1667557380" /></a>Currently Pursuing Masters of Science in Computer Science from The University of Texas at Dallas
