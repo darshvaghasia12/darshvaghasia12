@@ -9,22 +9,20 @@
 - Pursuing Master's of Science in Computer Science (Data Science)
 - Completed Bachelors Of Technology in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
 
-Identifying myself as the Non-immigrant in the United States has largely shaped my unique perspectives and aspirations. I take great pride in persistence, diligence and empathy.<br>
+- Innovative and scientifically rigorous recent graduate with a significant data science internship experience to bring to the table. With a team-oriented attitude, I am eager to     contribute my abilities in quantitative modeling and experimentation to enhance the experience of customers around the world.<br>
 
-Innovative and scientifically rigorous recent graduate with a significant data science internship experience to bring to the table. With a team-oriented attitude, I am eager to contribute my abilities in quantitative modeling and experimentation to enhance the experience of customers around the world.<br>
+- Actively looking for Internship opportunities in the States towards Data Science, Data Analyst, Data Engineer or Software Developer field. I have prior experiences at some of the esteemed companies one of that is Reliance Jio Platforms Limited as a Data Science Intern. <br>
 
-Actively looking for Internship opportunities in the States towards Data Science, Data Analyst, Data Engineer or Software Developer field. I have prior experiences at some of the esteemed companies one of that is Reliance Jio Platforms Limited as a Data Science Intern. <br>
-
-I’m always looking forward to an insightful conversation over coffee, or even better, a round of skydiving!<br>
+- I’m always looking forward to an insightful conversation over coffee, or even better, a round of skydiving!<br>
 
 Happy to connect 🤟🏻
-- <a href="https://www.utdallas.edu"><img width="18px" src="https://research.utdallas.edu/app/themes/utdresearchtheme/assets/images/logo.png?last_modified=1667557380" /></a>Currently Pursuing Masters of Science in Computer Science from The University of Texas at Dallas
+- <a href="https://www.utdallas.edu"><img width="18px" src="https://research.utdallas.edu/app/themes/utdresearchtheme/assets/images/logo.png?last_modified=1667557380" /></a>Masters of Science-Computer Science (UTD)
 - <a href="https://www.charusat.ac.in/depstar/"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/TRANSPARENT Depstar Logo.png" /></a> Did Bachelor of Technology in Computer Science from Charusat University
 - <a href="https://learn.microsoft.com/en-us/users/vaghasiadarshmaheshkumar-7296/credentials/fde702cf8d7555c6"><img src="https://swimburger.net/media/0zcpmk1b/azure.jpg" width="20" height="20"/> Microsoft Azure Data Scientist Associate</a>
 - <a href="https://darshvaghasia12.github.io">👨‍💻</a> Work Portfolio
 - <a href="https://drive.google.com/file/d/1m4N_3FIKX6OWB3Kqk5d8ptmn7DLrV0gd/view">📄</a> Resume
 - 📫 How to reach me: darshvaghasia@icloud.com
-- ⚡ Fun fact: I also endeavor to do fantastic things in my life, I Kinda Sing make feel Loved #SpreadLove
+- ⚡ Fun fact: I also endeavor to do fantastic things in my life, Kinda Sing make feel Loved #SpreadLove
 
 ## Connect with me:
 <p align="left">
