@@ -53,10 +53,7 @@ Happy to connect 🤟🏻
 
 ## 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
-```text
-Deep Learning / Machine Learning   40 mins          █████████████████▒░░░░░░░   66.33 % 
-Music & Keyboard     20 mins                        ███████▓░░░░░░░░░░░░░░░░░   33.33 % 
-```
+
 <!--END_SECTION:waka-->
 <br>
 
