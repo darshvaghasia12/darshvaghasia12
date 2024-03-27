@@ -20,7 +20,7 @@ I’m always looking forward to an insightful conversation over coffee, or even 
 Happy to connect 🤟🏻
 - <a href="https://www.utdallas.edu"><img width="18px" src="https://research.utdallas.edu/app/themes/utdresearchtheme/assets/images/logo.png?last_modified=1667557380" /></a>Currently Pursuing Masters of Science in Computer Science from The University of Texas at Dallas
 - <a href="https://www.charusat.ac.in/depstar/"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/TRANSPARENT Depstar Logo.png" /></a> Did Bachelor of Technology in Computer Science from Charusat University
-- <a href="https://github.com/darshvaghasia12"><img src="https://img.icons8.com/cute-clipart/18/000000/machine-learning.png"/></a> I’m currently learning Machine Learning / Deep Learning
+- <a href="https://github.com/darshvaghasia12"><img src="https://img.icons8.com/cute-clipart/18/000000/machine-learning.png"/> Microsoft Azure Data Scientist Associate</a>
 - <a href="https://darshvaghasia12.github.io">👨‍💻</a> Work Portfolio
 - <a href="https://drive.google.com/file/d/1m4N_3FIKX6OWB3Kqk5d8ptmn7DLrV0gd/view">📄</a> Resume
 - 📫 How to reach me: darshvaghasia@icloud.com
