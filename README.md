@@ -51,12 +51,6 @@ Happy to connect 🤟🏻
 
 <br><br>
 
-## 📊 This Week I Spent My Time On:
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-<br>
-
 ## Languages and Tools:
 <p align="left"> 
   <!--<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> -->
