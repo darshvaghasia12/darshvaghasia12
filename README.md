@@ -21,10 +21,9 @@ Happy to connect 🤟🏻
 - <a href="https://www.utdallas.edu"><img width="18px" src="https://research.utdallas.edu/app/themes/utdresearchtheme/assets/images/logo.png?last_modified=1667557380" /></a>Currently Pursuing Masters of Science in Computer Science from The University of Texas at Dallas
 - <a href="https://www.charusat.ac.in/depstar/"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/TRANSPARENT Depstar Logo.png" /></a> Did Bachelor of Technology in Computer Science from Charusat University
 - <a href="https://github.com/darshvaghasia12"><img src="https://img.icons8.com/cute-clipart/18/000000/machine-learning.png"/></a> I’m currently learning Machine Learning / Deep Learning
-- <a href="http://boomboom.in/"><img src="https://img.icons8.com/nolan/18/html-filetype.png"/></a> I'm a Web Developer, You can Checkout my Internship Website
-- <a href="https://darshvaghasia12.github.io">👨‍💻</a> Here you can get my portfolio available.
-- <a href="https://drive.google.com/file/d/1pPBjDSfQQl6o9eyfxCoRKv4i5UPMzAcH/view?usp=share_link">📄</a> Know about my experiences
-- 📫 How to reach me: darshvaghasia256@gmail.com
+- <a href="https://darshvaghasia12.github.io">👨‍💻</a> Work Portfolio
+- <a href="https://drive.google.com/file/d/1m4N_3FIKX6OWB3Kqk5d8ptmn7DLrV0gd/view">📄</a> Resume
+- 📫 How to reach me: darshvaghasia@icloud.com
 - ⚡ Fun fact: I also endeavor to do fantastic things in my life, I Kinda Sing make feel Loved #SpreadLove
 
 ## Connect with me:
@@ -33,19 +32,19 @@ Happy to connect 🤟🏻
     <img align="left" alt="Darsh's Channel" width="32px" 
        src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/youtube.svg" />
   </a>
-  <a href="https://twitter.com/music_darsh?s=09">
+<!--   <a href="https://twitter.com/music_darsh?s=09">
     <img align="left" alt="Darsh | Twitter" width="32px" 
        src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/darsh-vaghasia-720a251b8/">
+  </a> -->
+  <a href="https://www.linkedin.com/in/darshvaghasia/">
     <img align="left" alt="Darsh's LinkedIN" width="32px" 
        src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/linkedin.svg" />
   </a> 
   </a> 
-  <a href="https://www.instagram.com/darshmusic_/">
+<!--   <a href="https://www.instagram.com/darshmusic_/">
     <img align="left" alt="Darsh's Channel" width="32px" 
        src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/instagram.svg" />
-  </a> 
+  </a>  -->
 <!--  <a href="https://drive.google.com/drive/folders/1KyrMaQDkR2vWUW6CEkm3n8bgo-wL2KBb?usp=sharing">
     <img align="left" alt="Shubham's Channel" width="32px" 
        src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/drive.svg" />
