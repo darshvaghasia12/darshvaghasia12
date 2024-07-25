@@ -55,7 +55,6 @@ Happy to connect 🤟🏻
   <!--<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> -->
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/> </a> 
   <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png" alt="python" width="64" height="64"/> </a>
-  <a href="https://cloud.google.com/" target="_blank"> <img src="https://imgs.search.brave.com/N4UYfv-eFNkkuYU0G2x-AJAN82yxZKEWVYG9apDcdik/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/LWRvd25sb2FkLmNv/bS93cC1jb250ZW50/L2RhdGEvaW1hZ2Vz/L3N2Zy9Hb29nbGUt/Q2xvdWQtUGxhdGZv/cm0tbG9nby5zdmc.svg" alt="python" width="64" height="64"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/64/000000/tensorflow.png"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png"/> </a> 
   <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/64/000000/dart.png"/> </a> 
