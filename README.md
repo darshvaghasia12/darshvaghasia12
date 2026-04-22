@@ -1,92 +1,144 @@
-## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Darsh Vaghasia
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=darshvaghasia12&color=red&style=flat)
-![Visits Badge](https://badges.pufler.dev/visits/darshvaghasia12/darshvaghasia12/?color=red)
-![Repos Badge](https://badges.pufler.dev/repos/darshvaghasia12/?color=red)
-![Years Badge](https://badges.pufler.dev/years/darshvaghasia12/?color=red)
+<a href="https://darshvaghasia12.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=7AA2F7&center=true&vCenter=true&width=780&lines=AI+Engineer+%40+Cross+Screen+Media;Building+multi-agent+systems+with+Claude+Agent+SDK;Agentic+frameworks+%C2%B7+A2A+%C2%B7+A2UI+%C2%B7+MCP;Previously+%40+Apple%2C+Reliance+Jio" alt="Typing SVG" />
+</a>
 
-- Master's of Science in Computer Science (Data Science), University of Texas at Dallas
-- Completed Bachelors Of Technology in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
+# Darsh Vaghasia
 
-- Innovative and scientifically rigorous recent graduate with a significant data science internship experience to bring to the table. With a team-oriented attitude, I am eager to     contribute my abilities in quantitative modeling and experimentation to enhance the experience of customers around the world.<br>
+### AI Engineer @ Cross Screen Media · Austin, TX
 
-- Actively looking for Internship opportunities in the States towards Data Science, Data Analyst, Data Engineer or Software Developer field. I have prior experiences at some of the esteemed companies one of that is Reliance Jio Platforms Limited as a Data Scientist. <br>
+<img src="https://komarev.com/ghpvc/?username=darshvaghasia12&label=Profile+views&color=7aa2f7&style=flat-square" alt="Profile views" />
 
-- I’m always looking forward to an insightful conversation over coffee, or even better, a round of skydiving!<br>
+</div>
 
-Happy to connect 🤟🏻
-- <a href="https://www.utdallas.edu"><img width="18px" src="https://research.utdallas.edu/app/themes/utdresearchtheme/assets/images/logo.png?last_modified=1667557380" /></a> Masters of Science - Computer Science (UTD)
-- <a href="https://www.charusat.ac.in/depstar/"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/TRANSPARENT Depstar Logo.png" /></a> Bachelor of Technology - Computer Science (Charusat University)
-- <a href="https://learn.microsoft.com/en-us/users/vaghasiadarshmaheshkumar-7296/credentials/fde702cf8d7555c6"><img src="https://swimburger.net/media/0zcpmk1b/azure.jpg" width="20" height="20"/> Microsoft Azure Data Scientist Associate</a>
-- <a href="https://darshvaghasia12.github.io">👨‍💻Work Portfolio</a> 
-- 📫 How to reach me: darshvaghasia@icloud.com
-- ⚡ Fun fact: I also endeavor to do fantastic things in my life, Kinda Sing make feel Loved #SpreadLove
+---
 
-## Connect with me:
+## 🧠 About Me
+
+I build production AI systems — currently architecting **Rethink**, a multi-agent AI media-planning platform at Cross Screen Media. My work sits at the intersection of **agentic orchestration** (Claude Agent SDK, MCP, A2A), **LLM tooling** (RAG, fine-tuning, observability), and **cloud-native ML infrastructure**. Previously AI Engineer at **Apple** and **Reliance Jio**. M.S. Computer Science — Data Science, UT Dallas.
+
+---
+
+## 🔭 What I'm Building Right Now
+
+- **Rethink** — Multi-agent AI media-planning platform. Skill-based subagents, HITL approval flows, Claude Agent SDK end-to-end.
+- **A2A Protocol server + AGUI / A2UI declarative framework** — agents that dynamically emit dashboard components over the A2A wire.
+- **MCP integrations** — Salesforce (SOQL, budget allocation, task insertion) · Snowflake (audience / geo data) · WorkOS multi-tenant auth · Langfuse + LangSmith OpenTelemetry observability.
+
+---
+
+## 🛠️ Tech Stack
+
+**Agents & LLMs**
+
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6F61?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FFAE00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
+![LoRA%20%2F%20QLoRA](https://img.shields.io/badge/LoRA_%2F_QLoRA-6C47FF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**Web & App**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![ShadcnUI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Data & Infra**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=darshvaghasia12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=darshvaghasia12&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshvaghasia12&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/darshvaghasia12/darshvaghasia12/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+![Azure Data Scientist Associate](https://img.shields.io/badge/Azure_Data_Scientist_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Data Engineer Associate](https://img.shields.io/badge/Data_Engineer_Associate-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+## 📫 Let's Connect
+
 <p align="left">
-  <a href="https://www.youtube.com/channel/UChzQ2MBIE1zSiHrfc_ISf6Q">
-    <img align="left" alt="Darsh's Channel" width="32px" 
-       src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/youtube.svg" />
+  <a href="https://darshvaghasia12.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-<!--   <a href="https://twitter.com/music_darsh?s=09">
-    <img align="left" alt="Darsh | Twitter" width="32px" 
-       src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/twitter.svg" />
-  </a> -->
   <a href="https://www.linkedin.com/in/darshvaghasia/">
-    <img align="left" alt="Darsh's LinkedIN" width="32px" 
-       src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/linkedin.svg" />
-  </a> 
-  </a> 
-<!--   <a href="https://www.instagram.com/darshmusic_/">
-    <img align="left" alt="Darsh's Channel" width="32px" 
-       src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/instagram.svg" />
-  </a>  -->
-<!--  <a href="https://drive.google.com/drive/folders/1KyrMaQDkR2vWUW6CEkm3n8bgo-wL2KBb?usp=sharing">
-    <img align="left" alt="Shubham's Channel" width="32px" 
-       src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/drive.svg" />
-  </a> -->
- </p>
-
-<br><br>
-
-## Languages and Tools:
-<p align="left"> 
-  <!--<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> -->
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/> </a> 
-  <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png" alt="python" width="64" height="64"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/64/000000/tensorflow.png"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png"/> </a> 
-  <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/64/000000/dart.png"/> </a> 
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/64/000000/bootstrap.png"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
-  <a href="https://wordpress.com/" target="_blank"><img src="https://img.icons8.com/nolan/64/wordpress.png"/></a>
-  <a href="https://www.image-line.com/" target="_blank"> <img src="https://img.icons8.com/color/64/000000/fl-studio.png"/> </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:darshvaghasia@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshvaghasia12&show_icons=true&locale=en&layout=compact" alt="darshvaghasia12" /></p>
-<br>
 
-## Stats...
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=darshvaghasia12&show_icons=true&locale=en" alt="darshvaghasia12" /></p>
+---
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=darshvaghasia12&" alt="darshvaghasia12" /></p>
-
-
-
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-2007&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-2007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-2007" alt="shubham-2007" /></a> </p> 
-
-
-<p align="left"> <a href="https://twitter.com/shubham2441" target="blank"><img src="https://img.shields.io/twitter/follow/shubham2441?logo=twitter&style=for-the-badge" alt="shubham2441" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham-2007&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham-2007" /> </p>
-<br/>
-  <a href="https://twitter.com/shubham2441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="shubham2441" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="shubham2007" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shubham2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="shubham2007" height="30" width="40" /></a>
-<a href="https://fb.com/shubham.mendapara.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="shubham.mendapara.5" height="30" width="40" /></a>
-<a href="https://instagram.com/shubham.2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="shubham.2007" height="30" width="40" /></a>
-<a href="https://www.behance.net/shubhammendapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/behance.svg" alt="shubhammendapa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucngd3zsyfhig_hzvqvxthbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="ucngd3zsyfhig_hzvqvxthbg" height="30" width="40" /></a>
--->
+<div align="center">
+<sub><i>Open to conversations about agents, MCP, and anything at the intersection of LLMs and real infrastructure.</i></sub>
+</div>
